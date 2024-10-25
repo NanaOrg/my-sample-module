@@ -13,3 +13,4 @@ jobs:
             uses: MeterianHQ/meterian-github-action@v1.0.17
             with:
               oss: true
+              cli_args: --debug
